@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nightrollix
-- 👀 I’m interested in ... Programmingand Creating Apps
+- 👀 I’m interested in ... Programming and Creating Apps
 - 🌱 I’m currently learning ...Python and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
