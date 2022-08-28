@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Programming and Creating Apps
 - 🌱 I’m currently learning ...Python and C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: azeem9018@gmail.com
 
 <!---
 Nightrollix/Nightrollix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
